@@ -14,6 +14,7 @@ gem 'tux'
 # These gems are only installed when run as `bundle install --without production`
 group :development, :test do
   gem 'pry'
+  gem 'byebug'
   gem 'shotgun'
   gem 'sqlite3'
 end

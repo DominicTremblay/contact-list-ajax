@@ -18,6 +18,7 @@ GEM
     backports (3.6.7)
     bond (0.5.1)
     builder (3.2.2)
+    byebug (9.0.4)
     coderay (1.1.0)
     i18n (0.7.0)
     json (1.8.3)
@@ -77,6 +78,7 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport
+  byebug
   pg
   pry
   puma
@@ -89,4 +91,4 @@ DEPENDENCIES
   tux
 
 BUNDLED WITH
-   1.12.1
+   1.12.5
